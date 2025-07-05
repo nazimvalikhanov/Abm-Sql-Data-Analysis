@@ -8,7 +8,7 @@ This repository showcases SQL querying and data analysis skills using a fully sy
 
 ---
 
-## 📦 Dataset Overview
+## Dataset Overview
 
 The database includes four main tables:
 
@@ -19,7 +19,7 @@ The database includes four main tables:
 
 ---
 
-## 🧠 SQL Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 - `JOIN`, `GROUP BY`, `WHERE`, `ORDER BY`
 - Aggregations (e.g., `AVG`, `COUNT`)
@@ -32,7 +32,7 @@ The database includes four main tables:
 
 ---
 
-## 📊 Sample Analyses
+## Sample Analyses
 
 Some of the questions answered using SQL queries:
 
@@ -45,7 +45,7 @@ Some of the questions answered using SQL queries:
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - Microsoft SQL Server (T-SQL)
 - SSMS (SQL Server Management Studio)
@@ -53,7 +53,7 @@ Some of the questions answered using SQL queries:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 abm-sql-data-analysis/
