@@ -68,7 +68,6 @@ abm-sql-data-analysis/
 
 **Nazim Valikhanov**  
 _Data Analyst_  
-[LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN)  
-[GitHub Profile](https://github.com/YOUR-GITHUB)
+[LinkedIn Profile](https://www.linkedin.com/in/nazim-valikhanov/)
 
 ---
